@@ -16,4 +16,6 @@ This is example text for a text tag
 # Markdown
 is supported and [links](https://github.com/rainbowdashlabs/krile-tags) too.
 
-All kind of stuff can be here
+All kind of stuff can be here.
+
+This is pretty cool, right?
